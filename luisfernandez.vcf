@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Fernandez;Luis;;;
+FN:Luis Fernandez
+ORG:Wunderman Thmopson Commerce & Tech
+ADR;TYPE=WORK:
+TITLE:Executive Director
+TEL;TYPE=CELL:+502330124188
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:+502330124188
+EMAIL;TYPE=WORK:luis.fernandez@wundermanthompson.com 
+URL;TYPE=Digital Business Card:guisho.com/biz
+URL:
+URL;TYPE=WhatsApp:+502330124188
+URL;TYPE=Calendar:https://outlook.office.com/bookwithme/user/39805f96a8ae46d78021a135503fee05@wundermanthompson.com?anonymous&ep=plink
+URL;TYPE=LinkedIn:https://linkedin.com/https://www.linkedin.com/in/fernandezgt/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Enterprise tech director, advisor, and consultant. 
+UID:EnBizCard-100761794
+END:VCARD
