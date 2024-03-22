@@ -2,20 +2,20 @@ BEGIN:VCARD
 VERSION:3.0
 N:Fernandez;Luis;;;
 FN:Luis Fernandez
-ORG:Wunderman Thmopson Commerce & Tech
+ORG:ES at VML
 ADR;TYPE=WORK:
-TITLE:Executive Director
-TEL;TYPE=CELL:+502330124188
+TITLE:Executive Director, Tech
+TEL;TYPE=CELL:(551)231-9133
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
-TEL;TYPE=MSG:+502330124188
-EMAIL;TYPE=WORK:luis.fernandez@wundermanthompson.com 
-URL;TYPE=Digital Business Card:guisho.com/biz
+TEL;TYPE=MSG:(551)231-9133
+EMAIL;TYPE=WORK:luis.fernandez@vml.com
+URL;TYPE=Digital Business Card:https://guisho.com/vcard/
 URL:
-URL;TYPE=WhatsApp:+502330124188
-URL;TYPE=Calendar:https://outlook.office.com/bookwithme/user/39805f96a8ae46d78021a135503fee05@wundermanthompson.com?anonymous&ep=plink
+URL;TYPE=WhatsApp:https://api.whatsapp.com/send?phone=15512319133&text=Hi%20Luis!
+URL;TYPE=Calendar:https://outlook.office.com/bookwithme/user/39805f96a8ae46d78021a135503fee05@wundermanthompson.com/meetingtype/ZCCU0JtvHUaJeK6xwjzykg2?anonymous&ep=mlink
 URL;TYPE=LinkedIn:https://linkedin.com/https://www.linkedin.com/in/fernandezgt/
 KEY;TYPE=PGP;ENCODING=b:
-NOTE:Enterprise tech director, advisor, and consultant. 
-UID:EnBizCard-100761794
+NOTE:
+UID:EnBizCard-100426558
 END:VCARD
